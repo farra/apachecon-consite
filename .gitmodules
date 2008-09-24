@@ -1,0 +1,33 @@
+[submodule "vendor/radiant"]
+	path = vendor/radiant
+	url = git://github.com/farra/radiant.git
+[submodule "vendor/extensions/conferences"]
+	path = vendor/extensions/conferences
+	url = git://github.com/farra/radiant-conferences-extensions.git
+[submodule "vendor/extensions/members"]
+	path = vendor/extensions/members
+	url = git://github.com/farra/radiant-members-extension.git
+[submodule "vendor/extensions/page_attachments"]
+	path = vendor/extensions/page_attachments
+	url = git://github.com/radiant/radiant-page-attachments-extension.git
+[submodule "vendor/extensions/mailer"]
+	path = vendor/extensions/mailer
+	url = git://github.com/radiant/radiant-mailer-extension.git
+[submodule "vendor/extensions/tinymce_filter"]
+	path = vendor/extensions/tinymce_filter
+	url = git://github.com/danielegozzi/radiant-tinymce_filter.git
+[submodule "vendor/plugins/active_scaffold"]
+	path = vendor/plugins/active_scaffold
+	url = git://github.com/activescaffold/active_scaffold.git
+[submodule "vendor/plugins/file_column"]
+	path = vendor/plugins/file_column
+	url = git://github.com/tekin/file_column.git
+[submodule "vendor/plugins/attachment_fu"]
+	path = vendor/plugins/attachment_fu
+	url = git://github.com/technoweenie/attachment_fu.git
+[submodule "vendor/plugins/tzinfo_timezone"]
+	path = vendor/plugins/tzinfo_timezone
+	url = git://github.com/rails/tzinfo_timezone.git
+[submodule "vendor/plugins/acts_as_taggable_on_steriods"]
+	path = vendor/plugins/acts_as_taggable_on_steriods
+	url = git://github.com/mattetti/acts_as_taggable_on_steroids.git

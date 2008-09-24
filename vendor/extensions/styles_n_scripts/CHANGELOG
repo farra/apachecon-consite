@@ -1,0 +1,84 @@
+v0.4.1  Bug fix. Last-Modified header was not reporting the date using a valid
+        HTTP format.  This is now spec'ed and fixed.  (Thanks to Jay Levitt for
+        identifying this issue).
+
+
+v0.4    File Uploading!  You can now upload Javascripts or Stylesheets from the
+        corresponding index pages.
+
+
+v0.3.1  Moved Templates to Haml -- now requires Radiant 0.6.7 (or 0.6.6 and
+        install Haml yourself -- untested).
+
+        Added 'link' value to <r:stylesheet> and <r:javascript> tags so now you
+        can create an external link like:
+
+            <r:stylesheet name="my_file.css" as="link" />
+            
+            or
+            
+            <r:javascript name="my_file.js" as="link" />
+            
+        Also made the as="inline" option XHTML compliant by replacing the
+        commenting (<!-- -->) with a proper CDATA wrapper.
+ 
+        See the documentation in 'available tags' on the page-edit page for more
+        (now more readable).
+
+
+v0.3    Big new features plus code refactoring and a bug fix.  First, the new
+        fetures include:
+        
+          * Added <r:stylesheet> and <r:javascript> tags for use in pages.  This
+            lets you inject your stylesheet or javascript code into your Page 
+            much like using a snippet or just render the URL to the referenced
+            CSS or JS file (see the readme for more on this).
+            
+          * Added <r:stylesheet> and <r:javascript> tags for use in other
+            Stylesheets or Javascripts.  This lets you maintain mulitple files
+            yet just serve one master-stylesheet or master-javascript to your
+            end users (cut down on server requests)
+            
+            Along with this, I did a fancy trick with tracking dependencies so
+            that the cache knows when to update (add, edit, or remove a file
+            referenced by a <r:stylesheet> or <r:javascript> tag and the
+            dependant file's effectively_updated_at time changes to reflect it).
+            
+          * Added file upload button to the index pages.  Now instead of just
+            creating new stylesheets or javascripts, you can upload a file into
+            Radiant
+        
+        The bugfix includes the completion of the one addressed in v0.2.1 by
+        adding the form helper to the remove.html.erb template.
+            
+            
+v0.2.2  Bugfix - I added the UserActionObserver behavior and accompanying specs
+        to the Stylesheet and Javascript models 
+
+
+v0.2.1  Bugfix - I corrected the ActionController::InvalidAuthenticityToken that
+        comes from my not using the form helpers in my templates.  I also weakly
+        spec-ed it.
+        
+        NOTE: This was only a partial fix.  I corrected the edit.html.erb
+        template but not the remove.html.erb one.  See v0.3 for the completely
+        fixed version.
+
+
+v0.2    Initial public release.  Complete rebuild of the extension to work with
+        Rails 2.0 and Radiant 0.6.6.  Added *lots* of specs and focused on
+        making this thing robust.
+        
+        Basic functionality included:
+        
+          * Stores stylesheet and javascript files
+          
+          * Caches them with their own, improved response cache (improved in
+            that it handles this file type better)
+            
+          * Configuration management utility to allow extension users to adjust
+            default settings
+
+
+v0.1    Private release to John and Sean as a proof-of-concept (initially called
+        the Files extension).

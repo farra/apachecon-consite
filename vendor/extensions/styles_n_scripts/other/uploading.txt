@@ -1,0 +1,13 @@
+Rails Upload, Encoding, Ajax, all issues.
+
+Uploading:
+http://satishonrails.wordpress.com/2007/07/18/how-to-import-csv-file-in-rails/
+http://wrath.rubyonrails.org/pipermail/rails/2006-June/047146.html
+http://tutorial.jcwcn.com/Web-Design/Ruby-on-Rails/Getting-Started/2007-08-25/3058.html
+
+
+Encoding:
+Try using the chardet gem to determine encoding (or there's an rchardet project
+but I worry about the LGPL license).
+
+It'd also be nice to have a set of differently encoded files to test against.

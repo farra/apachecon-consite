@@ -16,9 +16,6 @@
 [submodule "vendor/extensions/tinymce_filter"]
 	path = vendor/extensions/tinymce_filter
 	url = git://github.com/danielegozzi/radiant-tinymce_filter.git
-[submodule "vendor/plugins/active_scaffold"]
-	path = vendor/plugins/active_scaffold
-	url = git://github.com/activescaffold/active_scaffold.git
 [submodule "vendor/plugins/file_column"]
 	path = vendor/plugins/file_column
 	url = git://github.com/tekin/file_column.git

@@ -1,0 +1,221 @@
+body {
+  margin-top: 0px;
+  font-size: 0.8em;
+}
+
+.freetime {
+
+}
+
+.session  {
+   padding:4px;
+   background-color: #ffffcc;
+   border: 1px solid #ffcc66;
+   width:100%;
+}
+
+.breaks {
+   background-color: #efefef;
+}
+
+.track { margin:0px; border: 1px solid #efefef;}
+
+.track-1 { width:950px;}
+.track-2 { width:475px;}
+.track-3 { width:315px;}
+.track-4 { width:215px;}
+.track-5 { width:190px;}
+
+.min-0  { height:0px; display:block; }
+.min-10  { height:20px; display:block; }
+.min-20  { height:40px; display:block; }
+.min-30  { height:60px; display:block; }
+.min-40  { height:80px; display:block; }
+.min-50  { height:100px; display:block; }
+.min-60 { height:120px; display:block; }
+.min-90 { height:180px; display:block; }
+.min-120 { height:240px; display:block; }
+.min-270 { height:540px; display:block; }
+
+.schedule-grid th {
+  background-color: #EFB3DA;
+}
+
+.schedule-grid td {
+  height:60px;
+  border-top:1px dotted #cdcdcd;
+}
+
+.schedule-grid table {
+   background-color: #FFFFEF;
+}
+
+td.session {
+
+}
+
+td.freetime {
+  height:100%;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #834C75;
+}
+
+a:hover {
+  text-decoration: underline;
+  font-weight: bold;
+  color: #EFC32B;
+}
+
+h1 {
+  padding-bottom: 2px;
+  border-bottom: 1px dashed #efefef;
+  font-family: "Futura", "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+h1 small {
+  font-size: 0.7em;
+}
+
+.alt {
+  color: #7794AA;
+}
+
+.blurb {
+  padding-top: 10px;
+  background-color: transparent !important;
+  padding:.8em;
+  margin-bottom:1em;
+  border:2px solid #9F6D8E;
+  color:#264409;
+}
+
+.col {
+        background-color: #F9F7ED !important;
+}
+
+.container {
+  background: transparent url( '../images/feather.gif' ) no-repeat left;
+  background-position: 575px 10px;
+  padding-left: 10px;
+}
+
+#sub .container {
+        background: transparent url( '../images/feather-small.gif' ) no-repeat left;
+        background-position: 645px 12px;
+}
+
+.highlight {
+        font-weight: bold;
+        color: #333;
+        font-size: 1.25em;
+}
+
+.menu {
+
+   text-align: center;
+   background: transparent url( '/images/conferences/acus2008/new_orleans.jpg') no-repeat center;
+   margin-bottom:0px;
+}
+
+.menu ul {
+   padding-top:4px;
+   margin-bottom:0px;
+}
+
+.menu ul li {
+   display: inline;
+}
+
+.submenu {
+  margin-top:0px;
+  padding-top:0px;
+  text-align:center;
+}
+
+.submenu ul li {
+  border-top: 1px solid #cccccc;
+  display:inline;
+  padding-top:4px;
+  padding-bottom:4px;
+  padding-left:3em;
+  padding-right:3em;
+  background:#dedede;
+}
+
+.breadcrumb-container {
+  background:#eee;
+  padding-top: 0.4em;
+  padding-bottom:0.4em;
+}
+
+#breadcrumbs {
+  font-size:0.8em;
+}
+
+#breadcrumbs a {
+  padding-right:1em;
+}
+
+.navigation {
+        padding-top: 8px;
+        text-align: center;
+        background: #eee;
+        height: 25px;
+        border-bottom: 1px solid #ddd;
+}
+
+.navigation ul li {
+        display: inline;
+        padding: 10px;
+}
+
+.search {
+        padding-top: 0px !important;
+}
+
+.searchsub {
+  padding-bottom: 10px;
+}
+
+.search input[type=text] {
+        margin-top: 0px !important;
+        padding: 1px;
+        font-size: 1.1em;
+        width: 15.0em;
+        color: #aaa;
+}
+
+#header {
+  margin-bottom: 1em;
+}
+
+#content img {
+  margin-left: 10px;
+  padding: 3px;
+  background-color: white;
+  border: 1px solid #ccc;
+}
+
+#content h4 {
+ font-weight: bold;
+}
+
+.noborder {
+  border: 0px;
+}
+
+.article-date {
+  display:block;
+  color: #aaaaaa;
+  padding-bottom:0.8em;
+}
+
+.sponsor-section img {
+  float:left;
+  margin-right: 1.4em;
+  margin-bottom: 1.4em;
+}

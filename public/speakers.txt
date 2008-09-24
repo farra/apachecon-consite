@@ -1,0 +1,76 @@
+Colm MacCarthaigh;colm@apache.org;Scaling Apache 2.x in all dimensions;Wed Nov 05 10:30:00 UTC 2008
+Brian Moon;brianm@dealnews.com;Building scalable web applications and clusters;Wed Nov 05 11:30:00 UTC 2008
+John Coggeshall;john@coggeshall.org;Top 10 Scalability Mistakes;Wed Nov 05 14:00:00 UTC 2008
+Geoffrey Young;geoff@modperlcookbook.org;Perlformance: The Art and Science of Tuning a Large Perl Application;Wed Nov 05 15:00:00 UTC 2008
+Theo Schlossnagle;jesus@omniti.com;Apache Projects on DTrace;Wed Nov 05 16:30:00 UTC 2008
+Ben Ramsey;ben@benramsey.com;Give Your Site a Boost With memcached;Wed Nov 05 17:30:00 UTC 2008
+Michael Busch;buschmi@apache.org;Advanced Indexing Techniques with Apache Lucene;Wed Nov 05 10:30:00 UTC 2008
+Chris Hostetter;hossman_apachecon@fucit.org;Apache Solr: Out of the Box;Wed Nov 05 14:00:00 UTC 2008
+Chris Hostetter;hossman_apachecon@fucit.org;Apache Solr: Beyond the Box;Wed Nov 05 16:30:00 UTC 2008
+Grant Ingersoll;grant.ingersoll@gmail.com;Introducing Mahout: Apache Machine Learning;Wed Nov 05 15:00:00 UTC 2008
+Paolo Mottadelli;paolo@apache.org;Content analysis for ECM with Apache Tika;Wed Nov 05 17:30:00 UTC 2008
+Filip Hanik;fhanik@apache.org;Everything Tomcat - Administering, Tuning, Troubleshooting and Develop;Mon Nov 03 10:00:00 UTC 2008
+Filip Hanik;fhanik@apache.org;Everything Tomcat - Administering, Tuning, Troubleshooting and Develop;Mon Nov 03 14:30:00 UTC 2008
+Ate Douma;ate@douma.nu;Using Portlet API 2.0 (JSR-286);Wed Nov 05 11:30:00 UTC 2008
+Bertrand Delacretaz;bdelacretaz@apache.org;Rapid JCR applications development with Sling;Wed Nov 05 14:00:00 UTC 2008
+Scott Stanlick;stanlick@gmail.com;The Struts 2 Framework;Wed Nov 05 15:00:00 UTC 2008
+Kito Mann;kmann@virtua.com;Enterprise Applications with JavaServer Faces, Spring, and JPA;Wed Nov 05 16:30:00 UTC 2008
+Sally Khudairi;sk@apache.org;Panel: The Business of Open Source - Power, Prestige, and Propulsion;Wed Nov 05 10:30:00 UTC 2008
+Simon Phipps;webmink@sun.com;Adoption-Led - a rather obvious way of talking about open source;Wed Nov 05 11:30:00 UTC 2008
+Paul Holland;paul.holland@hp.com;What does enterprise-ready open source really mean?;Wed Nov 05 14:00:00 UTC 2008
+J Aaron Farr;farra@apache.org;Making Sense of Open Source Licenses;Wed Nov 05 16:30:00 UTC 2008
+Kevin Crowston;crowston@syr.edu;Tales from the field: Impressions from 5 years of studying Apache(con);Wed Nov 05 17:30:00 UTC 2008
+Thorsten Scherler;thorsten@apache.org;Best of breed - httpd, forrest, solr and droids;Fri Nov 07 10:30:00 UTC 2008
+Tim Ellison;tellison@apache.org;Stormin' the coffee cup with Apache Harmony;Fri Nov 07 11:30:00 UTC 2008
+Tim Bray;tbray@textuality.com;An httpd module for the Atom Publishing Protocol;Fri Nov 07 15:00:00 UTC 2008
+James Snell;jasnell@gmail.com;Atom Best Practices;Fri Nov 07 14:00:00 UTC 2008
+Paul King;paulk@asert.com.au;XML and Web Services with Groovy;Fri Nov 07 16:30:00 UTC 2008
+Matthieu Riou;mriou@apache.org;Web Services, Orchestration and Apache ODE;Fri Nov 07 10:30:00 UTC 2008
+Luciano Resende;lresende@apache.org;Building composite applications with SCA and Apache Tuscany;Fri Nov 07 11:30:00 UTC 2008
+Bruce Snyder;bruce.snyder@gmail.com;Service Oriented Integration With the Apache ServiceMix ESB;Fri Nov 07 14:00:00 UTC 2008
+Chris Custine;ccustine@apache.org;ServiceMix, ActiveMQ, Camel, and CXF - An integration toolbox;Fri Nov 07 15:00:00 UTC 2008
+Aaron Mulder;ammulder@apache.org;Real-World Messaging with ActiveMQ;Fri Nov 07 16:30:00 UTC 2008
+Vamsavardhana Reddy Chillakuru;vamsic007@apache.org;Administering Apache Geronimo 2.x;Fri Nov 07 10:30:00 UTC 2008
+Bill Au;bill.w.au@gmail.com;Java Monitoring and Trouble Shooting Tools In Action;Fri Nov 07 11:30:00 UTC 2008
+Danny Angus;danny@apache.org;Apache James - The Complete Email Application Platform;Fri Nov 07 14:00:00 UTC 2008
+Felix Meschberger;fmeschbe@gmail.com;Scripting your Java Application with BSF 3.0;Fri Nov 07 15:00:00 UTC 2008
+Brian McCallister;brianm@apache.org;Mod_wombat: Multithreaded Scripting in the Apache HTTP Server with Lua;Fri Nov 07 16:30:00 UTC 2008
+Noirin Shirley;noirin@apache.org;How Do You Do? Writing Documentation Your Audience Can Read;Fri Nov 07 10:30:00 UTC 2008
+James Smith;jgsmith@jamesmith.com;An Open Source Approach to Digital Humanities;Fri Nov 07 11:30:00 UTC 2008
+Erik Hatcher;ehatcher@apache.org;Lucene/Solr Case Studies;Fri Nov 07 14:00:00 UTC 2008
+Henning Schmiedehausen;hps@intermeta.de;Empowering the social web with Apache Shindig;Fri Nov 07 15:00:00 UTC 2008
+Torsten Curdt;tcurdt@apache.org;The Commons Libraries - don't reinvent the wheel;Fri Nov 07 16:30:00 UTC 2008
+Sander Temme;sander@temme.net;Hardening Enterprise Apache Installations Against Attacks;Thu Nov 06 09:30:00 UTC 2008
+Ivan Ristic;ivanr@webkreator.com;Web Intrusion Detection with ModSecurity;Thu Nov 06 10:30:00 UTC 2008
+Christian Wenz;christian@wenz.org;(In)secure Ajax and Web 2.0 Web Sites;Thu Nov 06 14:00:00 UTC 2008
+Saumil Shah;saumil@net-square.com;Browser Exploits - Attacks and Defense;Thu Nov 06 15:00:00 UTC 2008
+Mark Thomas;markt@apache.org;Securing Apache Tomcat for your Environment;Thu Nov 06 16:30:00 UTC 2008
+Lars Eilebrecht;lars@apache.org;Securing Communications with your Apache HTTP Server;Thu Nov 06 17:30:00 UTC 2008
+Brett Porter;brett@apache.org;More Apache Maven Best Practices;Thu Nov 06 09:30:00 UTC 2008
+Carlos Sanchez;carlos@apache.org;Q, Maven integration for Eclipse;Thu Nov 06 10:30:00 UTC 2008
+Richard S. Hall;heavy@ungoverned.org;Apache Felix - A Standard Plugin Model for Apache;Thu Nov 06 14:00:00 UTC 2008
+Graham Charters;gcharters@googlemail.com;Felix goes to Tuscany: applying OSGi modularity after the fact;Thu Nov 06 15:00:00 UTC 2008
+Petar Tahchiev;paranoiabla@gmail.com;Dependency Management With Ivy;Thu Nov 06 16:30:00 UTC 2008
+Ravi Saraswathiamma;ravisar@gmail.com;Guidelines and Best practices-System architecture of web applications;Thu Nov 06 17:30:00 UTC 2008
+Owen O'Malley;omalley@apache.org;Introduction to Hadoop;Thu Nov 06 09:30:00 UTC 2008
+Tom White;tomwhite@apache.org;A Tour of Apache Hadoop;Thu Nov 06 10:30:00 UTC 2008
+Arun Murthy;acmurthy@apache.org;Programming Hadoop Map-Reduce;Thu Nov 06 14:00:00 UTC 2008
+Craig Russell;craig.russell@sun.com;Don't know Jack about Object Relational Mapping?;Thu Nov 06 15:00:00 UTC 2008
+Jukka Zitting;jukka@apache.org;Introduction to JCR and Apache Jackrabbit;Thu Nov 06 17:30:00 UTC 2008
+Bertrand Delacretaz;bdelacretaz@apache.org;Open Source Collaboration Tools are Good For You!;Thu Nov 06 09:30:00 UTC 2008
+Chris J. Davis;cjd@chrisjdavis.org;Great Code comes from Great Community: Meritocracy in Action;Thu Nov 06 10:30:00 UTC 2008
+Bjorn Townsend;bjorn@apache.org;Turn Off The Lights Before You Go: Graceful Shutdown of OS Projects;Thu Nov 06 15:00:00 UTC 2008
+Brian Fitzpatrick;fitz@apache.org;Do You Believe in the Users?;Thu Nov 06 17:30:00 UTC 2008
+Filip Hanik;fhanik@apache.org;Everything Tomcat - Administering, Tuning, Troubleshooting and Develop;Tue Nov 04 10:00:00 UTC 2008
+Filip Hanik;fhanik@apache.org;Everything Tomcat - Administering, Tuning, Troubleshooting and Develop;Tue Nov 04 14:30:00 UTC 2008
+Gerald Müllan;gmuellan@apache.org;MyFaces and AJAX in Action: Open Source JavaServer Faces 1.2;Mon Nov 03 10:00:00 UTC 2008
+Gerald Müllan;gmuellan@apache.org;MyFaces and AJAX in Action: Open Source JavaServer Faces 1.2;Mon Nov 03 14:30:00 UTC 2008
+Grant Ingersoll;grant.ingersoll@gmail.com;Lucene Boot Camp;Mon Nov 03 10:00:00 UTC 2008
+Grant Ingersoll;grant.ingersoll@gmail.com;Lucene Boot Camp;Mon Nov 03 14:30:00 UTC 2008
+Colm MacCarthaigh;colm@apache.org;Scaling Apache hands-on;Mon Nov 03 10:00:00 UTC 2008
+Colm MacCarthaigh;colm@apache.org;Scaling Apache hands-on;Mon Nov 03 14:30:00 UTC 2008
+Manu George;manu.t.george@gmail.com;Developing Rich Internet Applications with Apache Geronimo;Mon Nov 03 10:00:00 UTC 2008
+Deepal Jayasinghe;deepal@apache.org;Real World Axis2/Java: Highlighting Performance and Scalability;Mon Nov 03 14:30:00 UTC 2008
+Paul King;paulk@asert.com.au;Groovy tutorial;Mon Nov 03 10:00:00 UTC 2008
+Paul King;paulk@asert.com.au;Groovy tutorial;Mon Nov 03 14:30:00 UTC 2008
+Sally Khudairi;sk@apache.org;Media & Analyst Training;Mon Nov

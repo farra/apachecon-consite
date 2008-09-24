@@ -28,3 +28,6 @@
 [submodule "vendor/plugins/acts_as_taggable_on_steriods"]
 	path = vendor/plugins/acts_as_taggable_on_steriods
 	url = git://github.com/mattetti/acts_as_taggable_on_steroids.git
+[submodule "vendor/plugins/active_scaffold"]
+	path = vendor/plugins/active_scaffold
+	url = git://github.com/activescaffold/active_scaffold.git

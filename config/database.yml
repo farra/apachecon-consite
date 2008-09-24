@@ -14,7 +14,7 @@ development:
   adapter: mysql
   database: apachecon_production
   username: root
-  password: cubiclemuses
+  password: 
   host: localhost
 
 # Warning: The database defined as 'test' will be erased and
